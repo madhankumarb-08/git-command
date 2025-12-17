@@ -21,6 +21,9 @@ public class Main
         System.out.println("Fetching Api");
 
 
+        System.out.println("Hi am Madhan working from Indian time zone ");
+
+
 
         //-----------------------------------Add place ---------------------------------------------
         RestAssured.baseURI = "https://rahulshettyacademy.com";
