@@ -8,6 +8,17 @@ import static org.hamcrest.Matchers.*;
 
 public class Main
 {
+    public void develop()
+    {
+        System.out.println("Hi am developered a software");
+        System.out.println("Hi am developered a software");
+        System.out.println("Hi am developered a software");
+        System.out.println("Hi am developered a software");
+        System.out.println("Hi am developered a software");
+        System.out.println("Hi am developered a software");
+        System.out.println("Hi am developered a software");
+
+    }
     public static void main(String[] args)
     {
         // rest assured works in with 3 principal ways
