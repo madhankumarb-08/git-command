@@ -23,6 +23,8 @@ public class Main
 
         System.out.println("Hi am Madhan working from Indian time zone ");
 
+        System.out.println("Ok i am from asian AST i have pushed a new one ");
+
 
 
         //-----------------------------------Add place ---------------------------------------------
